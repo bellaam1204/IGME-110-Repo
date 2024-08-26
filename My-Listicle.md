@@ -1,4 +1,4 @@
-#My Listicle.md
+# My Listicle.md
 ---
 
 ## Favorite Art Pieces
